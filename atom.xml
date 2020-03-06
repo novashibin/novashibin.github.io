@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>Nova Bin</title>
   
-  
+  <subtitle>Nova Bin</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
-  <updated>2020-03-06T07:28:25.297Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://novashibin.github.io/"/>
+  <updated>2020-03-06T10:09:14.292Z</updated>
+  <id>http://novashibin.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Nova Bin</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>hell world</title>
-    <link href="http://yoursite.com/2020/03/06/xin-jian-bo-ke/"/>
-    <id>http://yoursite.com/2020/03/06/xin-jian-bo-ke/</id>
-    <published>2020-03-06T07:26:45.000Z</published>
-    <updated>2020-03-06T07:28:25.297Z</updated>
+    <title>first</title>
+    <link href="http://novashibin.github.io/2020/03/06/first/"/>
+    <id>http://novashibin.github.io/2020/03/06/first/</id>
+    <published>2020-03-06T10:08:34.000Z</published>
+    <updated>2020-03-06T10:09:14.292Z</updated>
     
     <summary type="html">
     
@@ -29,7 +29,7 @@
       
         
         
-          &lt;h3 id=&quot;hello-world&quot;&gt;&lt;a href=&quot;#hello-world&quot; class=&quot;headerlink&quot; title=&quot;hello world&quot;&gt;&lt;/a&gt;hello
+          &lt;h2 id=&quot;第一篇博客&quot;&gt;&lt;a href=&quot;#第一篇博客&quot; class=&quot;headerlink&quot;
         
       
     
@@ -41,8 +41,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2020/03/06/hello-world/"/>
-    <id>http://yoursite.com/2020/03/06/hello-world/</id>
+    <link href="http://novashibin.github.io/2020/03/06/hello-world/"/>
+    <id>http://novashibin.github.io/2020/03/06/hello-world/</id>
     <published>2020-03-06T07:12:04.177Z</published>
     <updated>2020-03-06T07:12:04.177Z</updated>
     
